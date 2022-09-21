@@ -1,4 +1,4 @@
-# Trabajo de Fin de Máster
+# Trabajo de Fin de Máster: Cómo puede mejorar la ciberseguridad la ciencia de datos
 # Máster en Big Data y Ciencia de Datos
 
 El presente repositorio contiene el código de los scripts utilizados para la prueba de concepto realizada para el trabajo de fin de Máster, para lo cual se utilizó la herramienta SIEM "ELK Stack", que es el conjunto de tres proyectos open source: Elasticsearch, Logstash y Kibana.
